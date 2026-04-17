@@ -16,3 +16,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
+
+### 📊 깃허브 통계
+
+![박재환's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackdawn4853&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdawn4853&layout=compact&theme=dark&hide_border=true)
